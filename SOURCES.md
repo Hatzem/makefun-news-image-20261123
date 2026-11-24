@@ -1,0 +1,10 @@
+# Sources — 23 November 2026
+
+Same-day reporting used for each story in `entry.png` (all first reported or published on Monday 23 November 2026, except the COP31 collapse, which was announced late Sunday 22 November and reported worldwide on 23 November).
+
+1. **COP31 collapses (Antalya, no climate deal)** — UN News, "COP31 ends without climate pact as UN chief warns there is 'no ambiguity in the science'": https://news.un.org/en/story/2026/11/1168855 — CNN, "Global climate summit collapses as countries fail to agree on moving away from fossil fuels": https://www.cnn.com/2026/11/22/climate/cop31-summit-collapses-in-fossil-fuel-failure?cid=external-feeds_iluminar_meta
+2. **Ukraine strikes Russian ships in Libya** — Reuters via Algenom daily briefing, "Zelenskyy says Ukrainian sea drones struck two Russian ships in the Libyan port of Benghazi": https://www.algenom.com/news — BBC/Just Security Early Edition 23 November 2026: https://www.justsecurity.org/165610/early-edition-november-23-2026/
+3. **Nvidia reinstates Jensen Huang as CEO** — Reuters, "Nvidia reinstates Jensen Huang as CEO": https://www.reuters.com/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/ — The Wall Street Journal, "Nvidia Board Reinstates Jensen Huang as CEO": https://www.wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-a6b49914
+4. **Asian chip stocks slide** — Al Jazeera via Algenom daily briefing, "Asian chip stocks slide after a Wall Street rout driven by doubts over AI spending" (Kospi fell as much as 5.8%, closed down 3.3%): https://www.algenom.com/news
+5. **Iran standoff / Trump inclined to strike after New Year** — Just Security Early Edition 23 November 2026 (Trump: Iran wants a deal but not one "acceptable" to him): https://www.justsecurity.org/165610/early-edition-november-23-2026/ — worldnews.com live feed, 23 Nov: https://os1.worldnews.com/
+6. **South Korea cabinet reshuffle** — worldnews.com live feed, 23 Nov ("South Korea's president unveiled a surprise cabinet reshuffle on Monday, changing three key national security posts"): https://os1.worldnews.com/

@@ -1,0 +1,1 @@
+NEWS-IMAGE RULE (every morning): a news-image-<YYYYMMDD> slug becomes buildable at 07:00 WIB on the morning AFTER its news day (the date in the slug). Start its full pipeline first that morning (before any other new bounty). Standing rule: when a new bounty opens, if I can build it, build it directly without waiting for her pick; push via browser only, never MCP push-files/API.
